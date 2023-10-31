@@ -13,7 +13,9 @@ The dataset used in this analysis is the Microsoft Lifetime Stocks Dataset. This
 
 Before running the code, ensure you have the following dependencies installed on your system:
 
-- [![Open In Jupyter Notebook](https://img.shields.io/badge/Open%20In-Jupyter%20Notebook-orange?style=for-the-badge&logo=jupyter)](link-to-your-jupyter-notebook)
+- [![Open In Jupyter Notebook](https://img.shields.io/tokei/lines/:provider/:user/:repo)](link-to-your-jupyter-notebook)
+
+https://img.shields.io/badge/Open%20In-Jupyter%20Notebook-orange?style=for-the-badge&logo=jupyter
 
 - [![Python](https://img.shields.io/badge/Python-3.1-blue.svg
 )](https://www.python.org)
@@ -28,7 +30,7 @@ Follow these steps to run the code:
 1.Download the Dataset:
 
 Visit the dataset source on Kaggle: Microsoft Lifetime Stocks Dataset.
-Dataset Link:www.kaggle.com/datasets/prasoonkottarathil/microsoft-lifetime-stocks-dataset 
+-Dataset Link:www.kaggle.com/datasets/prasoonkottarathil/microsoft-lifetime-stocks-dataset 
 
 Download the dataset in CSV format.
 
