@@ -2,7 +2,7 @@
 
 # Microsoft Lifetime Stocks Analysis
 This README provides instructions for running the code and outlines the necessary dependencies for analyzing the Microsoft Lifetime Stocks dataset. The code is provided in a Jupyter Notebook (.ipynb) format.
-
+ 
 # Project Overview
 
 The Stock Price Prediction Project is designed to address the challenges faced by individual investors in predicting stock price movements. It utilizes data science and machine learning techniques to empower investors with tools and information needed to make more accurate predictions in the dynamic world of stock markets.
