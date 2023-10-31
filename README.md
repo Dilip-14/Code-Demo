@@ -65,7 +65,8 @@ For any questions or issues, please contact https://chat.openai.com/c/ea338a33-3
 # Dependencies
 
 Before running the code, ensure you have the following dependencies installed on your system:
-[![Open In Jupyter Notebook](https://img.shields.io/badge/Open%20In-Jupyter%20Notebook-orange?style=for-the-badge&logo=jupyter)](link-to-your-jupyter-notebook)
+
+- [![Open In Jupyter Notebook](https://img.shields.io/badge/Open%20In-Jupyter%20Notebook-orange?style=for-the-badge&logo=jupyter)](link-to-your-jupyter-notebook)
 
 - [![Python](https://img.shields.io/pypi/pyversions/:packageName)](https://python.org)
 
