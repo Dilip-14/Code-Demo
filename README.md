@@ -54,8 +54,6 @@ Follow the instructions in the Notebook to analyze the Microsoft Lifetime Stocks
 
 You can save the Notebbook with your changes and export the results as needed.
 
-For any questions or issues, please contact https://chat.openai.com/c/ea338a33-3ad7-4753-9ac3-1c436cb286f7.
-
 
 <i class="fab fa-jupyter"></i> Jupyter Notebook
 
@@ -68,7 +66,8 @@ Before running the code, ensure you have the following dependencies installed on
 
 - [![Open In Jupyter Notebook](https://img.shields.io/badge/Open%20In-Jupyter%20Notebook-orange?style=for-the-badge&logo=jupyter)](link-to-your-jupyter-notebook)
 
-- [![Python](https://img.shields.io/pypi/pyversions/:packageName)](https://python.org)
+- [![Python](https://img.shields.io/badge/Python-3.1-blue.svg
+)](https://www.python.org)
 
 - [![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.3-blue.svg)](https://matplotlib.org)
 - [![NumPy](https://img.shields.io/badge/NumPy-1.21.2-orange.svg)](https://numpy.org)
