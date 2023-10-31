@@ -66,7 +66,8 @@ For any questions or issues, please contact https://chat.openai.com/c/ea338a33-3
 Before running the code, ensure you have the following dependencies installed on your system:
 
 - <i class="fab fa-python"></i> Python 3.x
-- <i class="fab fa-jupyter"></i> Jupyter Notebook
+- [![Python](https://img.shields.io/pypi/pyversions/:packageName)](https://python.org)
+
 - [![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.3-blue.svg)](https://matplotlib.org)
 - [![NumPy](https://img.shields.io/badge/NumPy-1.21.2-orange.svg)](https://numpy.org)
 
