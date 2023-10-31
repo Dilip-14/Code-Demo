@@ -1,15 +1,16 @@
+# Stock Price Prediction🚀
 
-###Microsoft Lifetime Stocks Analysis
+# Microsoft Lifetime Stocks Analysis
 This README provides instructions for running the code and outlines the necessary dependencies for analyzing the Microsoft Lifetime Stocks dataset. The code is provided in a Jupyter Notebook (.ipynb) format.
 
 
-###Dataset Description
+# Dataset Description
 The dataset used in this analysis is the Microsoft Lifetime Stocks Dataset. This dataset contains historical stock price data for Microsoft Corporation from its initial public offering (IPO) in 1986 to the present day. The dataset includes information such as Date, Open Price, Close Price, High Price, Low Price, Volume, and Adjusted Close Price.
 
-Dataset Link:https:www.kaggle.com/datasets/prasoonkottarathil/microsoft-lifetime-stocks-dataset 
+# Dataset Link:https:www.kaggle.com/datasets/prasoonkottarathil/microsoft-lifetime-stocks-dataset 
 
 
-###Dependencies
+# Dependencies
 
 Before running the code, ensure you have the following dependencies installed on your system:
 
@@ -19,7 +20,7 @@ Pandas
 Matplotlib
 NumPy
 
-###Running the Code
+# Running the Code
 Follow these steps to run the code:
 
 1.Download the Dataset:
@@ -61,11 +62,10 @@ For any questions or issues, please contact https://chat.openai.com/c/ea338a33-3
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.3-blue.svg)](https://matplotlib.org)
 
 
-### Dependencies
+# Dependencies
 
 Before running the code, ensure you have the following dependencies installed on your system:
-
-- [[ !Jupyter Notebook](https://img.shields.io/pypi/frameworkversions/:frameworkName/:packageName)](https://jupyter.org).
+[![Open In Jupyter Notebook](https://img.shields.io/badge/Open%20In-Jupyter%20Notebook-orange?style=for-the-badge&logo=jupyter)](link-to-your-jupyter-notebook)
 
 - [![Python](https://img.shields.io/pypi/pyversions/:packageName)](https://python.org)
 
@@ -74,5 +74,3 @@ Before running the code, ensure you have the following dependencies installed on
 
 You can install the required packages using `pip`:
 
-```bash
-pip install jupyter pandas matplotlib numpy
