@@ -57,6 +57,3 @@ Follow the instructions in the Notebook to analyze the Microsoft Lifetime Stocks
 You can save the Notebbook with your changes and export the results as needed.
 
 
-
-You can install the required packages using `pip`:
-
