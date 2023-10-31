@@ -9,16 +9,18 @@ The dataset used in this analysis is the Microsoft Lifetime Stocks Dataset. This
 
 # Dataset Link:https:www.kaggle.com/datasets/prasoonkottarathil/microsoft-lifetime-stocks-dataset 
 
-
 # Dependencies
 
 Before running the code, ensure you have the following dependencies installed on your system:
 
-Python 3.x
-Jupyter Notebook
-Pandas
-Matplotlib
-NumPy
+- [![Open In Jupyter Notebook](https://img.shields.io/badge/Open%20In-Jupyter%20Notebook-orange?style=for-the-badge&logo=jupyter)](link-to-your-jupyter-notebook)
+
+- [![Python](https://img.shields.io/badge/Python-3.1-blue.svg
+)](https://www.python.org)
+
+- [![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.3-blue.svg)](https://matplotlib.org)
+- [![NumPy](https://img.shields.io/badge/NumPy-1.21.2-orange.svg)](https://numpy.org)
+
 
 # Running the Code
 Follow these steps to run the code:
@@ -32,7 +34,7 @@ Download the dataset in CSV format.
 
 2.Move Dataset File:
 
-Place the downloaded CSV dataset file (e.g.,MSFT.csv) in the same directory as the Jupyter Notebook file.
+Place the downloaded CSV dataset file <bold>MSFT.csv</bold> in the same directory as the Jupyter Notebook file.
 
 3.Launch Jupyter Notebook:
 
@@ -55,22 +57,6 @@ Follow the instructions in the Notebook to analyze the Microsoft Lifetime Stocks
 You can save the Notebbook with your changes and export the results as needed.
 
 
-<i class="fab fa-jupyter"></i> Jupyter Notebook
-
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.3-blue.svg)](https://matplotlib.org)
-
-
-# Dependencies
-
-Before running the code, ensure you have the following dependencies installed on your system:
-
-- [![Open In Jupyter Notebook](https://img.shields.io/badge/Open%20In-Jupyter%20Notebook-orange?style=for-the-badge&logo=jupyter)](link-to-your-jupyter-notebook)
-
-- [![Python](https://img.shields.io/badge/Python-3.1-blue.svg
-)](https://www.python.org)
-
-- [![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.3-blue.svg)](https://matplotlib.org)
-- [![NumPy](https://img.shields.io/badge/NumPy-1.21.2-orange.svg)](https://numpy.org)
 
 You can install the required packages using `pip`:
 
