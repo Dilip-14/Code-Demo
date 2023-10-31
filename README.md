@@ -30,7 +30,8 @@ Follow these steps to run the code:
 1.Download the Dataset:
 
 Visit the dataset source on Kaggle: Microsoft Lifetime Stocks Dataset.
--Dataset Link:www.kaggle.com/datasets/prasoonkottarathil/microsoft-lifetime-stocks-dataset 
+
+Dataset Link:www.kaggle.com/datasets/prasoonkottarathil/microsoft-lifetime-stocks-dataset 
 
 Download the dataset in CSV format.
 
