@@ -7,7 +7,7 @@ This README provides instructions for running the code and outlines the necessar
 # Dataset Description
 The dataset used in this analysis is the Microsoft Lifetime Stocks Dataset. This dataset contains historical stock price data for Microsoft Corporation from its initial public offering (IPO) in 1986 to the present day. The dataset includes information such as Date, Open Price, Close Price, High Price, Low Price, Volume, and Adjusted Close Price.
 
-# Dataset Link:https:www.kaggle.com/datasets/prasoonkottarathil/microsoft-lifetime-stocks-dataset 
+# Dataset Link:www.kaggle.com/datasets/prasoonkottarathil/microsoft-lifetime-stocks-dataset 
 
 # Dependencies
 
@@ -31,7 +31,7 @@ Follow these steps to run the code:
 
 Visit the dataset source on Kaggle: Microsoft Lifetime Stocks Dataset.
 
-Dataset Link:www.kaggle.com/datasets/prasoonkottarathil/microsoft-lifetime-stocks-dataset 
+Dataset Link: www.kaggle.com/datasets/prasoonkottarathil/microsoft-lifetime-stocks-dataset 
 
 Download the dataset in CSV format.
 
